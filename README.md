@@ -30,6 +30,6 @@ Installing via conda:
 
 ## Solutions
 
-[Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/Linear%20Programming.ipynb "Test")
+[Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem01.ipynb "Problem01")
 
-**Solving Integer LP Problem**
+[Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem02.ipynb "Problem02")
