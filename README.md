@@ -28,8 +28,14 @@ Installing via conda:
 
     conda install scipy numpy
 
-## Solutions
+## Examples
 
-[Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem01.ipynb "Problem01")
+* [Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem01.ipynb "Problem01")
 
-[Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem02.ipynb "Problem02")
+* [Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem02.ipynb "Problem02")
+
+## Company X Problem
+
+![](notebooks/CompanyX.png)
+
+[Solving Company X Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/CompanyX-Problem.ipynb)
