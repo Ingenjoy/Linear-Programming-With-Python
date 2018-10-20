@@ -1,7 +1,9 @@
 # Linear-Programming-With-Python
+
 Solving Linear Programming problems using Simplex Method with `linprog` from `scipy.optimize` and `numpy` libraries on Python.
 
-## Linear Programming.
+## Linear Programming
+
 Linear programming is used to solve optimization problems. In a LP problem must be defined an **Objective Function** and **Constraints**, and they must be **Strictly Linears**. Constraints may be equalities or inequalities.
 
 ### Example:
@@ -18,13 +20,14 @@ Constraints:
    <img src="https://latex.codecogs.com/png.latex?\center&space;C1&space;=&space;6x_{1}&space;&plus;&space;4x_{2}&space;\leq&space;24&space;\center&space;C2&space;=&space;x_{1}&space;&plus;&space;2x_{2}&space;\leq&space;6&space;\center&space;C3&space;=&space;-x_{1}&space;&plus;&space;x_{2}&space;\leq&space;1&space;\center&space;C4&space;=&space;x_{2}&space;\leq&space;2&space;\center&space;x_{1},&space;x_{2}&space;\geq&space;0"/></p>
 
 ## Requirement
-We are going to use, Scipy and Numpy libraries to solves LP problems.
 
-Installing via pip: 
+We are going to use, Scipy and Numpy libraries to solve LP problems.
+
+Install via pip: 
 
     pip3 install scipy numpy
 
-Installing via conda: 
+Install via conda: 
 
     conda install scipy numpy
 
