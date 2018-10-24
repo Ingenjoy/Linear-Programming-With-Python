@@ -1,6 +1,6 @@
 # Linear-Programming-With-Python
 
-Solving Linear Programming problems using Simplex Method with `linprog` from `scipy.optimize` and `numpy` libraries on Python.
+Solving Linear Programming problems using Simplex Method with `linprog` from `scipy.optimize`, `NumPy` and `PuLP` libraries on Python.
 
 ## Linear Programming
 
