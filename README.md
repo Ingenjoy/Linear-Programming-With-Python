@@ -21,11 +21,11 @@ Constraints:
 
 ## Requirement
 
-We are going to use, Scipy and Numpy libraries to solve LP problems.
+We are going to use SciPy, NumPy and PuLP libraries to solve LP problems. PuLP is not available on Anaconda, try with `pip`.
 
 Install via pip: 
 
-    pip3 install scipy numpy
+    pip install scipy numpy pulp
 
 Install via conda: 
 
