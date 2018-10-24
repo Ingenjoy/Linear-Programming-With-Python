@@ -33,12 +33,15 @@ Install via conda:
 
 ## Examples
 
+### Using linprog from SciPy
 * [Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem01.ipynb "Problem01")
 
 * [Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem02.ipynb "Problem02")
 
+### Using PuLP
+
 ## Company X Problem
 
-![](notebooks/CompanyX.png)
+[Solving Company X problem with Linprog](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/CompanyX-Problem.ipynb)
 
-[Solving Company X Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/CompanyX-Problem.ipynb)
+![](notebooks/CompanyX.png)
