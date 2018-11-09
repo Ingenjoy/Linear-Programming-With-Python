@@ -1,6 +1,6 @@
 # Linear-Programming-With-Python
 
-Solving Linear Programming problems using Simplex Method with `linprog` from `scipy.optimize` and `numpy` libraries on Python.
+Solving Linear Programming problems using Simplex Method with `linprog` from `scipy.optimize`, `NumPy` and `PuLP` libraries on Python.
 
 ## Linear Programming
 
@@ -21,11 +21,11 @@ Constraints:
 
 ## Requirement
 
-We are going to use, Scipy and Numpy libraries to solve LP problems.
+We are going to use SciPy, NumPy and PuLP libraries to solve LP problems. PuLP is not available on Anaconda, try with `pip`.
 
 Install via pip: 
 
-    pip3 install scipy numpy
+    pip install scipy numpy pulp
 
 Install via conda: 
 
@@ -33,12 +33,15 @@ Install via conda:
 
 ## Examples
 
+### Using linprog from SciPy
 * [Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem01.ipynb "Problem01")
 
 * [Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem02.ipynb "Problem02")
 
+### Using PuLP
+
 ## Company X Problem
 
-![](notebooks/CompanyX.png)
+[Solving Company X problem with Linprog](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/CompanyX-Problem.ipynb)
 
-[Solving Company X Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/CompanyX-Problem.ipynb)
+![](notebooks/CompanyX.png)
