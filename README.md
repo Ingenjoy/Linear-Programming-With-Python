@@ -34,14 +34,19 @@ Install via conda:
 ## Examples
 
 ### Using linprog from SciPy
-* [Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem01.ipynb "Problem01")
+* [Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/Linprog/LP-Problem01.ipynb "Problem01")
 
-* [Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/LP-Problem02.ipynb "Problem02")
+* [Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/Linprog/LP-Problem02.ipynb "Problem02")
 
 ### Using PuLP
+* [Solving LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/PuLP/LP-Problem01.ipynb "Problem01")
+
+* [Solving Integer LP Problem](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/PuLP/LP-Problem02.ipynb "Problem02")
+
 
 ## Company X Problem
 
-[Solving Company X problem with Linprog](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/CompanyX-Problem.ipynb)
+[Solving Company X problem with Linprog](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/Linprog/CompanyX-Problem.ipynb)
+[Solving Company X problem with PuLP](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/PuLP/CompanyX-Problem.ipynb)
 
 ![](notebooks/CompanyX.png)
