@@ -47,6 +47,7 @@ Install via conda:
 ## Company X Problem
 
 [Solving Company X problem with Linprog](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/Linprog/CompanyX-Problem.ipynb)
+
 [Solving Company X problem with PuLP](https://github.com/Gabeqb/Linear-Programming-With-Python/blob/master/notebooks/PuLP/CompanyX-Problem.ipynb)
 
 ![](notebooks/CompanyX.png)
